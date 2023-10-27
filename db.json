@@ -1,0 +1,110 @@
+{
+    "colleges": [{
+        "id": 1,
+        "name": "University of California, Berkeley (UCB)",
+        "website": "https://www.berkeley.edu/",
+        "image": "https://www.topuniversities.com/sites/default/files/university-of-california-berkeley-ucb_84_small.jpg",
+        "state": "California",
+        "enrollment": 45057
+    }, {
+        "id": 2,
+        "name": "Boston University",
+        "website": "https://www.bu.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023900/201.jpg",
+        "state": "Massachusetts",
+        "enrollment": 18459
+    }, {
+        "id": 3,
+        "name": "Clemson University",
+        "website": "https://www.clemson.edu/index.html",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022889/301.jpg",
+        "state": "South Carolina",
+        "enrollment": 21653
+    }, {
+        "id": 4,
+        "name": "Vanderbilt University",
+        "website": "https://www.vanderbilt.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022817/400.jpg",
+        "state": "Tennessee",
+        "enrollment": 6886
+    }, {
+        "id": 5,
+        "name": "Northeastern University",
+        "website": "https://www.northeastern.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022996/1.jpg",
+        "state": "Massachusetts",
+        "enrollment": 20980
+    }, {
+        "id": 6,
+        "name": "Washington University in St. Louis",
+        "website": "https://wustl.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022620/101.jpg",
+        "state": "Missouri",
+        "enrollment": 4494
+    }, {
+        "id": 7,
+        "name": "Rice University",
+        "website": "https://www.rice.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023709/101.jpg",
+        "state": "Texas",
+        "enrollment": 1
+    }, {
+        "id": 8,
+        "name": "Swarthmore College",
+        "website": "https://www.swarthmore.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1024057/101.png",
+        "state": "Pennsylvania",
+        "enrollment": 1625
+    }, {
+        "id": 9,
+        "name": "Auburn University",
+        "website": "https://www.auburn.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023017/01.jpg",
+        "state": "Alabama",
+        "enrollment": 1
+    }, {
+        "id": 10,
+        "name": "Bucknell University",
+        "website": "https://www.bucknell.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023825/101.jpg",
+        "state": "Pennsylvania",
+        "enrollment": 3747
+    }, {
+        "id": 11,
+        "name": "Fordham University",
+        "website": "https://www.fordham.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023254/1.jpg",
+        "state": "New York",
+        "enrollment": 10098
+    }, {
+        "id": 12,
+        "name": "Ithaca College",
+        "website": "https://www.ithaca.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023296/1.jpg",
+        "state": "New York",
+        "enrollment": 4619
+    }, {
+        "id": 13,
+        "name": "College of Charleston",
+        "website": "https://www.cofc.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022883/1.jpg",
+        "state": "South Carolina",
+        "enrollment": 9972
+    }, {
+        "id": 14,
+        "name": "Loyola University Maryland",
+        "website": "https://www.loyola.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023474/201.jpg",
+        "state": "Maryland",
+        "enrollment": 3977
+    }, {
+        "id": 15,
+        "name": "Temple University",
+        "website": "https://www.temple.edu/",
+        "image": "https://hems-assets.princetonreview.com/images/profilepics/1024067/101.jpg",
+        "state": "Pennsylvania",
+        "enrollment": 24106
+    }
+]
+    
+}
