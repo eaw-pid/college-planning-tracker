@@ -6,7 +6,6 @@ console.log(college)
 
 return (
     <div className="ui grid container">
-       
         <CollegeCard college={college} />
        
     </div>

@@ -5,21 +5,26 @@ function CollegeCard({college}) {
 
     return (
         <div className="ui eight wide column">
-        <Card>
-        <Image src={college.image} wrapped ui={false} />
-        <Card.Content>
-          <Card.Header>{college.name}</Card.Header>
-          <Card.Meta>
-            <span className='enrollment'>Enrollment: {college.enrollment}</span>
-          </Card.Meta>
-          <Card.Description>
-           Location: {college.state}
-          </Card.Description>
-        </Card.Content>
-        <Card.Content extra>
-          <a href={college.website}>Website</a>
-        </Card.Content>
-      </Card>
+        <div className="ui card" > 
+                <div className="content">
+                    <a className="header">{college.name}</a>
+                </div>
+                <div className="image">
+                    <img src={college.image} alt={college.image}/>
+                </div>
+                <div class="meta">
+                    <span class="date">Enrollment: {college.enrollment}</span>
+                </div>
+                <div class="description">
+                     Location: {college.state}
+                 </div>
+                 <div class="extra content">
+                     <a href={college.website}>Website</a>
+                </div>
+                <div class="extra content">
+                    <button class="ui button">Add to My Colleges</button>
+                </div>
+            </div>
        
         </div>
     )
