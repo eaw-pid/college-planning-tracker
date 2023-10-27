@@ -10,17 +10,14 @@ function CollegeCard({college}) {
         <Card.Content>
           <Card.Header>{college.name}</Card.Header>
           <Card.Meta>
-            <span className='enrollment'>{college.enrollment}</span>
+            <span className='enrollment'>Enrollment: {college.enrollment}</span>
           </Card.Meta>
           <Card.Description>
-           <a href={college.website}>Website</a>
+           Location: {college.state}
           </Card.Description>
         </Card.Content>
         <Card.Content extra>
-          <a>
-            <Icon name='user' />
-            22 Friends
-          </a>
+          <a href={college.website}>Website</a>
         </Card.Content>
       </Card>
        
