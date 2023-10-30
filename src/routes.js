@@ -4,6 +4,8 @@
 import ErrorPage from "./pages/ErrorPage";
 import CollegeProfile from "./pages/CollegeProfile";
 import App from "./pages/App"
+import TaskList from "./pages/TaskList"
+import MyColleges from "./pages/MyColleges"
 
 const routes = [
     {
@@ -11,16 +13,16 @@ const routes = [
         element: <App />,
         errorElement: <ErrorPage />
     },
-    // {
-    //     path: "/about",
-    //     element: <About />,
-    //     errorElement: <ErrorPage />
-    // },
-    // {
-    //     path: "/login",
-    //     element: <Login />,
-    //     errorElement: <ErrorPage />
-    // },
+    {
+        path: "/tasks",
+        element: <TaskList />,
+        errorElement: <ErrorPage />
+    },
+    {
+        path: "/my-colleges",
+        element: <MyColleges />,
+        errorElement: <ErrorPage />
+    },
     {
         path: "/colleges/:id",
         element: <CollegeProfile />,

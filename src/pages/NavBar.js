@@ -18,10 +18,10 @@ function NavBar() {
             My Colleges    
             </NavLink>
             <NavLink
-            to="/alphabetical"
+            to="/tasks"
             className="nav-link"
             >
-            Alphabetical    
+            My Tasks    
             </NavLink>
         </nav>
     )

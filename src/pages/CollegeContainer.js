@@ -1,8 +1,7 @@
 import React from "react"
-import CollegeCard from "./CollegeCard"
+import CollegeCard from "../components/CollegeCard"
 
 function CollegeContainer({college}) {
-console.log(college)
 
 return (
     <div className="ui grid container">
