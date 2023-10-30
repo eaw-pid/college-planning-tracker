@@ -7,7 +7,7 @@ return (
     <>
     <li>
         <span>{item.task}</span>
-        <input type="checkbox" id="todo" name="todo" value="todo"></input>
+        <button>✅</button>
     </li>
     </>
 )
