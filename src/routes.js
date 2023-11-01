@@ -11,7 +11,13 @@ const routes = [
     {
         path: "/",
         element: <App />,
-        errorElement: <ErrorPage />
+        errorElement: <ErrorPage />,
+        children: [
+            {
+                path:"/colleges/:id",
+                element: <CollegeProfile />
+            }
+        ]
     },
     {
         path: "/tasks",

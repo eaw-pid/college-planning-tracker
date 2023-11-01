@@ -1,16 +1,26 @@
-import React from "react";
-import NavBar from "./NavBar";
+// import React, {useEffect, useState} from "react";
+// import {useParams, useOutletContext} from "react-router-dom"
+// import NavBar from "./NavBar";
 
-function CollegeProfile() {
+// function CollegeProfile() {
+//     const params= useParams();
+//     const colleges = useOutletContext()
+//     const collegeId = colleges.find(college => college.id === parseInt(params.id))
 
+// useEffect(() => {
+//     fetch(`http://localhost:3001/colleges/${collegeId}`)
+//     .then(res => res.json())
+//     .then(data => )
 
-return (
-    <>
-        <header className="App-header">
-            <NavBar />
-         </header>
-    </>
-)
-}
+// }, [collegeId])
 
-export default CollegeProfile
+// return (
+//     <>
+//         <header className="App-header">
+//             <NavBar />
+//          </header>
+//     </>
+// )
+// }
+
+// export default CollegeProfile

@@ -1,114 +1,114 @@
 {
-    "colleges": [{
-        "id": 1,
-        "name": "University of California, Berkeley (UCB)",
-        "website": "https://www.berkeley.edu/",
-        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQUExcUFBUXFxcXGRwaGhgZGBgaGRceGhoaGhkdGhocICwlGiApHhoaJDYlKi0vMzMzHCI4PjgyPSwyMy8BCwsLDw4PHhISHjIpIikyNDcyMi80NzIyMjQyMjIyMjIyMjIyNTIyNDoyNDIyOjQ0MjI0MjIyMjIyMjIyMjIyMv/AABEIAKIBNwMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAgMEBQYBB//EAEEQAAIBAwIEBAQDBgUCBQUAAAECEQADIRIxBAVBURMiMmEGcYGRQqGxFCNSYsHwM3LR4fFDshUkgpLCFlNzotL/xAAbAQADAQEBAQEAAAAAAAAAAAAAAQIDBAUGB//EADARAAICAAQEAwcFAQEAAAAAAAABAhEDEiExBBNBURQykQUiM0JxwfBSYYGhsfEV/9oADAMBAAIRAxEAPwDkVyKciuRXuH57YiK5FORXIoHYiK5FORXIoCxEURS4rkUDsRFEUuKIoCxEURSooigLExXIpcURQOxEURS4oigLERRFKiiKAsTFEUqKIoCxMURSooigLExRFKiiKAsTFEUuKIoCxMURSooigViYoilRXYoCxEURS4oigLORRFLApy5wzpAcANpUwJA8wBG/sfvNK9aKSbi30X3GIrsUqKIpkWJiuxSooigViYopVFAWORXIpcUUzOxEVyKXFEUDsRFcinIrkUDsRFcinIrkUBYiKIpcURQOxuKIpcURSCxEVynIoigLG6KciuRQFiIoilxRFA7ERRFLiiKAsRFEUuKIoCxEURS4oigLERRFLiiKAsTFEUuKIoFYiK7FKiiKAsTFEUuKIoCyTyyxruoOgMn5Ln84j61f/GvBwbdwdtB+mV/KftVFwPGC3ctqhVnukIwGWUeJnE4kL1rVc0vtdtlCrGGUiUAkg5yGx1rz8TiFHFT6I+k4X2e5cHJNavVfYxEUU/xKxccREMwjtBNNV3p2rPnZxcZOL6CaKVRTIE0UqKKAseiuRS4oiqMrERXIpyK5FAWIiiKXFEUDsbiiKXFEUBYiKIpcURQFjcURS4oigdiIoilxRFILERRFLiiKAsRFEUuKIoCxEUaaXFEUBYiKIpcURQFiIoilRXYoCxEURSooigLExRFKiiKAsTFEUqikFiYrlKigigaepneGbxOOS08spvQ3RYknYbmBVrZ4lTcCC0APECyHYGDee10PZPvUHlqAccrAyTeEADPURJwPsdq1ackthtYS6DqDYg5Fx7o6bTcavCxmszP0HhovlK+y/wAIXFWwtx1EwrECSScGMk7mmoqRxw/ePv6jgxIzsYpmK9nD8i+h8NxN82X1YmK7FK0GjQaqzCmJiinFtk0UWh5Jdh2KIpzwzR4Zq7Rjll2G4rkU74Zo8M9qLQVLsNRRFOaD2o0HtRYUxuKIpek9qIpi1ERXIpemjTQAiKIpcVyKAsTFEUqKIoCxMVyKXFEUBYiKIpcV3TQMbiiKc0HtR4Z7UrGkxuKIp4WjXRw5pZkUsOT6DEVyKlDh66OGqXNFrAxH0IkURU4cMKWLI7UniI1XCTZX6D2rotntViLVK8OpeIax4N9WVwsGgcPVgyACTgDf2rjKPt+VTzTVcGiD+z0oWBWc5j8ROty4qekjSDA1A7alj5EiZqnfnd3RAuXIA6EzEdTvt+tc0+LSdI9LC9jykrdIvuVcPHGo4aR4uB1yTOa3hUyW14j049sjsYERWI5FHicMe7J/21ubh8pONu3t3rzcR27PpsGCjGkefc+5tcW9dVTtccEwCRnEY6VRW+MuQVFx/VMz/vn71M+IW/8AOXsE/vG233qqgHJEduk/QGm8WXVmXh8JN+6tX2LC5ze4ZUXDmTBkxIgGZnG/2p3/AOoXASZJtkycw3Q6s7Z2qlUmcKN8+Yde8/KrLjLS2wvkEmci5qUwAJACiMziTtRzp3o/7J8LgyXlXoSbXxDe1agRE7FQF2P1/sUVV3DqdQqy0TEEzjOJ3xPT8qKOdifqYvB4P6V6Hq3h1zw6laaNNevnPluQiL4dHh1K00aaM4chEXw654dS9Nc0UZw8OiL4dc8KpeiuFKOYLwyInhUeFUrRRop8wXhkRfBrng1L0UaKOYHhV2Ing0eBUvRXYo5oeEXYh+AK7+zipcV0JS5pS4NdiILFdFmpJZRkkAZ3IG29QrvOOGUSbqHMYOo/YZqHjUax4K9kPCzXRaqo4v4psqP3Ya7joCo98kT1HTrUJ/i4k+W1sZOZkQcYjSZG+cTiofERXU6I+z5P5TS+FXfDrIH4uvFQy27cFj/EdtxJIG9Jf4l4t40Io8s+VSdWNxJOP9KzfEx7m8fZsuxsNFRr3FW0ID3EUkkZI3Akz2xG/cd6xXEXOLdAbjuNTBSrFlOV3IAiIxjr0qA9m5cJKamGojWcaivqknY/Os3xfY6I+zO7NZd+KuHE6Q7EdgADmJmdqk2/iLhmHrYYByjdfcCKxj8Lc8E3dYIdtHhAQ5Kzn32xE71xODZkZnIQwRB9RkgZBwNz1n2rN8VI3/8AOw/3NG3xjbDAC02TiSJiM7Ymek96jr8RXrmlbaLr1AwOoAyDqOxmcEVSjl6KjPNzTGSBKliJAwY27zttWg4C3bt2FuLbUXPALa+updA3JxMms+fOWzNY8HhR3Qq/+33AwuILVtwRq8hEfywSZyB9OlOt8LXyGH7ROslmBBgs25iYHQbVIeHd1OVFxwAC0HTaVwDp6BzMZFSL9oBGcjBG/iXgMEiNoG4wMZ+VRKc3uzeOBhx2iiiPwTdn/ESQRJhs4/3rJOttd3IknAWekjePl9a9OuIjK8H8GYe5IjVAxsJB/Oq34nAXh3YeryQSzMR5iuAwxgnY/pUW0aZUyNyT/E4b/Nb/AErbso0/T+lYnkv+NY6+ZPyFbW80KY/h749NVIIHmPxCFXjL0gZc9JJPT5DvVdKHJEk/br3/AL3qd8UPHF3jpmXJEAmcLienSq+wUKnUWVpgAKCBGZMsD+XvWTV6jpWJ1+xJAgCdvbH/ABSn4pzbClyE20z7ydvejh+FU4Bb1D8P4fxZk6Y3nNXXA8stupLFVNvVJc7ggmSoU7R+R+YltIIwbKS3xBUE+JAxO4+W29FSbqqLhZM2yoyMydm0rvGruBj8ilaCmup6ivF2zgOv3p4NXl/NOcvKBfLGfLB6bxP9zU/l3NL7BgNJKifUtvr7kau0j2xmvX8Rh3Vs+fjwfEZbaV9rPQZriuDkV5tf5zxKq4d2XWSVB1E6cDABwP8AWmrXPr4RV8QgKrAiTsYPTM4/M0nxETVcFiVrR6Wl5WLAbqQD8yAf0IrvjLIGoZJAyMkbge4g/avNOE5xdtywdy7sNQLGDMZIGZCjeRH3qCLz61IdpViw8zCNXqbp5vf3rN8WuxouBd7npPFc5RLotQCZQEkwBqOfsCPv7VKvcwtLM3ExuAwJ+UDM+1eYcTzO44CG4xiDBkkgYG4k4796seM5n4lkCdGnBt2wqLjq2DIxtPWp8S1ujR8CqVM0HE/F9oB9AY6XAkLMrAOqD7yPp9KZ4D4nLWlMHUBBJUkSOpbt02+9Ya7bLHSoJ1FQRvkfLvnp0NXF63cs2gHt3bQOmAQ4UmN/N1wKh8RLc0XB4a0NInxaxMJY1kBidOppAGDpCmCTjPt3qN/49xtwMoteGymT+7YGPk/TNUfLfHt3PEhwDbwVYLg+cfr2705xXGXLlt9bPlhA1kgacZnpE/2KHxMrNFwMMutlg/xDxarO/XKpncYj+8V3hviTi3kLDmfSLeQIk9hsDuaruTcI1zzG74aLAypuEnqAvTEb1peAtWLeuLhbxSC8hs5OwVQBg9v0qPFSe7RceAj0iynf4j4nxILxv5QikYzG28Hv2qFf5lxFwea475EqCAPN/KPttVne4A2obh7zFg4fQ66SDEH95A6ewqFyqzet3Az220wQcIz6SIMEk7ZgH7ZzEsdvqarhVHVqvqiEnC3PCYvC6gwlht0wDn6125wzQsuz/hIUFiBuTAkRjeamc4S5c0hLLKAkH0EnzEySoHSDtV5yO3xSoHtcVatO6z4fhWtY2JDBmBJickDCn2mcze7L5a+VFWeE0WoC3A0BlUKQXEA5LDy4P2GcVERbaabi2gvlJbxmBBYzGA3mXVAxnzTBitfxXA8bcMXOLtOAdIDWbRgEwRGrqUH2+dQ+WctXiLgc2ktm3bSVdQBLAiQoIxqDYM9KK7DruQOChrNq5rdQtwJhQdKkMg856+YAk5yetKt8UttnLX3EFoQANrUxGQYEqBgDFXHE/C48iKVDZ0GDiMsYD9Z79qpvijk3gorKpLswBKq7GFEZOo9x7Hc7UO0tiqX5ZXXuFdrKGyVRGu6mNy4NesIPLM5GGbIG/WaVwHFKum3bZCbjEsty1C6lWRDBpYyVEQJ1T1qDxHMLpZEl/wB2rMIldDXPMxMdw2Pb710o+hHyApZJk4bESMwTAz2FRnrclK2a1OULfVmt2ldrdzSyamWG0q0iWCx5oj/ej/w6Cw8OxJJRpu2tR1EkyTcncHBz7dqz4R594N26LpbRcYebcBjsd+0zucDFaJPibWty5btW3t27oBbWZFuCWcjRh8YX+bcU7SLUv2RTnkCFdPhWoZiMXkwfLMRcwNsDPtVdxKhNQEAKhHqBjSWG4mY7yfrWkX4tteQtbtwzuPVnSANJEqBJMgyQPLv2yXxBxRC3GiGYSFVp9dw4UiNQiY7gdqqE4vVEYjtbL+Cx5NxaEeoAyzkamEBrQAyP5gR/zV0b5KMDogA5F24W3ffyCNhjbcbAThfhrilS/kgShBywiQQskExt9/nW2fiAUYa0wI/x8+pxtpwcRHtHSaad7kxF8S5CXFBHpBzdcESW6acTkR1iMRTPNLlq5ba24S6uAV8dlLS34iPRpPbtUTief2iCgc5BGpbhI3O8rtttO/1rvxJzO3bt6DcDlsQCXGGzqCjy9hnpSzIpLuMcqxxNoQRFwDTvpwcT1jb6Vs7gOg5/D/8AGsByTmNvx7RZgoDAmcRnSMVvbjkqQMypP3XBpualsEUeXfGGn9p4gAecuMExuq/7VA4ZGtoUY6TpOxk53M9QfcVp/iLmyC5xFvwhi4AXWAxOkA6sfNZmsqvEi4MRAMEe3zPvWbtobir3F8M51Y1EQcAzt2Eg1LucSoaGbGmD5d22APcEe9RV8iBliARHzPTP0x71CsXhqJ0vAJPcGY1eXsDn6VnKOZ2F0W/FXUb940iYUqlsKpGSCI2yB0/1HaivcUr5xqBAMkMBPQAAz1JoqorQbOHgLZf95ciCDgsAd8Tqj7RuaV4bIdROoEwCJHl99ztRwXBXbgNwqEtCV1MRqb2WfPHvtWo5RyfhLlqbjDy4IJAJMsQAAZb2+9XUu5z7bIx3FsdIXc5nVEGOufak2gCJ0+WehAgSQBIzv0969CflPBL6bWsjuo6di9Is8whzbHB6UX/qvoCbb6Z+mK0tVuNYeI35XqYU3TMRnfu2e1JWzcDQbdyApOQ3bt336mvQv/ElRiQFBOJRYA27mD9Km81tF7bLcW6qYLE2pjTDEyHED3iBThlaLnhShueZcJbLagNKMo3bUsgHqIxEj79an8KAqwhLtI2tlo/ywJgHr/xW0s8stXF1W7baWM6lsKNe8ebVJH1iucF4AABtXfM5RQNCBmUxAGoEnahoSRl+SWbicQjJbuszTOpCoBYhYDRA3nfpVvxLvcUt4jeG8rp8PXEBSYlpOD261dX0sIVcpxCy2lSr2oL9FBLHzTOJ6U5xx4YKNVi7aRWObfhKAx0yGhsN5QINZyhbs3jLKqIXEcVbS2BbsP4hBl4OxBGF2WJEGcR12rKXrbkOfDYkk/8ATcnudJjP5Tmt7cexbSWsXQFILsWtEqScB5byzjHYilvfsgFjYugKJYarflB2Zhrkex+dLKwlKL/6Y7krgq6NauBi0ywdZEEYPcEA/wCu1XSXLAIZrDwisuLjwxjDMDufcGrY3rKqXPD3CsBzJtQqxhvV6SMyexriPYNsMLF0jTq1arclN9eGysdYoyy/KLjiRSpr+2Vt29wyqNNkjSJbxHcgKIBhi4nzEb96krw9u5bUpZuQdLarZ1A4MiNZwZXO+DVh+0W7qQvDOyMFGbaurAEwZD5z1J/CKZ4Xi7Sa7Nu1dW465UW4KiNIYLqlUGwz13oyy6i5i6LT6lY72CCnhvMEp5QCPcnVkT0phbptnxVA8kCBrL+YaBCgZOY+s1K4m2tseGRdDMs+dABGoRA1H+E/cfWKhNuWtwxAwhUHVkHSNRgTHf8A1rKTSnTZ0pOWE3FMd+IOdP4L3EbSoQgrJ1i4WOkFdyCrA4xg7wKz/wAMJcuXnT1nQCZOo4YKGnaAG79D2pHxfdtm8umElQ1y2IhGhQNI1Sw36iM7VA5PxS27jswtuNKjSUDAElpjUBGwOO1aNRvVHEpzi1T2N0nLruP3b5I3G06N8/z/AP6P2qCvFHWEKuurGphCgzkGCSCCY2qkucxB0/u7QiP+lbAMd8Zn7fKmOG4uS2hggbUQpI8PUYKABsepREZO1QlhydJGy4jFW7/w3fC8iW6FuG/bPugDbbjU0R1G1RLfw/bvm7Z1OoWdBCliNL6ZaBJOScQM9KrrXEMpIyvkLk67ltFlpOOwnp0+VKu80u8FbRFK62yWAYkLOBqcloO/tmtahHoRLNLVvcjcZ8OPbVbge34YC22uWjqAILDzIYaST07+1Vtni7tprqK50srKHEaiIEMFZvKZ77RTR5pcLXGY5LByJmSswTO/frsKZN7WQWkLCnrhZEhQD/cmock3oCjoSeH45/4pj8bFTjvjrjYVAck3DcIeNxIJ6lgc9ZJPerLmnLEt8Ot23JDMmQSSMZDDIGff9cQLF946wIBbVEdsmY2+fSsmsrp7NdBN6kC2x8YmHE5GMCexiRn+8Vb2uZXlRwr3SJAIhgF1Bpgz5h9O31kPxtoKFgkwJdZJ64zH3C9PeaftMlwEq8xkiNJGezDfrG+D9LpP0EkZ6841TOSBgyI7CCOu/Su8ReuXGVmuMQqaApyY7bbf60jj+FKXGuyGkBhgzk6fsAO3WaSksFlSumYJ1QcbHEH77waSjWwEhAWIM4nqokDsSP8AatdyLnTvcKXXVbYUwSYU9JkyZzgSBv8ATElHVlLCcwBqgb7k9T1Pzp5dIDEMQxggEmN5MDpO/wCm1PVMehH53xZD3CYJdnuEe5b8J6wc1Et3iih4VdWxESf69qe5rcgLEEBs+XOBPlPb88/dV1BG2xDiMgQBAA6nJB7x9tFSiRWonj77iSGBGkY0jPsAcMcTnocVWWuLc6iAdJBlYAA7kA/OTU5uNVmb93qkxuVM4AESY6Yrr27iqbrQqxpZGWViRCyBgE9elCpaNEPV2ShxjMFUssxMhATjEbwP96KXwdoaFdD5TJK5MkwO52I3nYCisW4rQ0TdFlzHjS0IpEjeFf5jcbDqd/lUjhOJdlhWyJIYzJOcQRt0wD86o9fEWyqwoZvxYnvJOygTOc713xhaPiQ2uBL22XQT1JIG+djHSt1EzzyvMa3huaXLji0Leq4cQDBkAknzwNgaVxlm4rqlxSrvGhHv2FLSYGhS2c4wKrPhfiv/ADVu4bhbUxARRqI1BgJySACep771vuY8te7dtXFKabRUtMkmGDGIHYVaUV0LeJOWrbMhxHDPbdUuW9LtGlGvWFd8wAqky2cYq8u/EF1lKnhyQwKnQ+owY7THTJ71bcx5W9y/auKyhbRBYESTDajGMVE+LnuLwzeG5tszhdS4YA+qDMg471WnREuUmtXZD4Pnl22i214cwuBraCd/YT8wIqltfEVsFZVVK3XuAF/xMcjI/T71pfhF7h4Xzu11ldgpfLRpEAkkzEnc1mOM5DbuXRca4yjxbjMos3GJAusIVlBAMIfvtjL0Fr0JHH/ECBilxVQrdW7p1ggNpGBgiD6sZljT/E/E4VnDW1U3NNwgMYOIDSJ3AH2Fc+IeTW7l52Z2VvEyBadxAt2lAGkGDIb7inufcptMwIZ10hEX927+VLY9WkYbzDeNj9F7oveGeN+JwdRdFXxkQ4fcKW0nEwckZ/hjpSr3xUABca2ii4mmdR8wUjeDIg4z3NOc85PadLYl0CWrYQm2zGCbrHUoyCYG8da5zXk1puGtJLqFt+VvDJMs4ZiyjIB0mJ7ij3R6jfEfFAKC4yIFdGtagTkYnvt7j8XuKF+JwLSPoTSqm0HnMacgiewB2inOK5PaPB2repwgRiH8Mk69VtWYpM6SBj5ilPyez+wC2GcKS7a/DM6yNGrRM6YI69KNA1F8v+KLlxf3dtXC6V1a4mdhkiTOMd6cTml/xDdHDnUyhJnywCWEZ995g1N+EeBWzw6rbZnBJ1Oy6NRkwVUkwIIH/pNUnAC4eZFjeY/vbqlPNp0gPpWDjGkH5ijQNRHNeZ3LlxNVpEbQc+IApXV382Z/Q0xx/j2bfiOiKpEqTdQziRAC5+Va3iLSeOt244UW0KAEgA+IZ31DPk2qj+PeIUcMH1AAMCM+oEbgiZABnrWc4RautTSOLiRVJtI88413YpNxRCz6tRIliST0y2w7+9N8ACHcFpMYLSJBPpBO5H9abw4nEkCAcgbYnBmf09qEchTo3UTpMzH8Uz5v77Vk9qMr1snMuRM/KdWqNun5UjjrzWwGdIRyShwQd8DSSJkTUXhtJLO8sRuuVCkTMiYM+9JugPbuHdVNsAAkYbVIAiOm/sPrUI60x2SbfE3rLlLNxrasyDT6km4pk+GZXde3bap/HcxctbW5cFyRq1aQPpt7dN5qG5yrEMP3lllMHSV0GF1SZbXI267jo7x9xVW2ywxAIgg+TV1yANhj+tVPWkbxqm0P2iXOsRnTEKvaDmJ2/OuvcYPIPqBIaAAAuCCIj+xSbV4NLTkLInVIEtviB+LOOm8Yl3LirOkgrJAMEjzSSYI3wPqTWeVrctUK4d+JLqi3IVmX92EUkz5ip1LAk9tvaKWOJYN5nYnI0sAdjMaZxFK4NkGlyGbcv6gY88QYwYpPGWkHnTVLN6WO8DpAycd4rLEptIUoqzr37QBm2pJz/DvtOk/Paoi+TPpLbSd4jAK09w3LbjJqZ1S0G9bMJJmMBoE/3NKvcCUC3CLjISZLaFIPurAx1/uKqpVdk2l0ITcc9u4HCagDnAaDkBgTtAgzIyAelRm4w3G1PJ8xk4UxIkwNxU25bBAW2hcEeVZEs0xkR2qVwfwtxysHPCkpEgONtjESDn5U4tNEt0ynvSSGGqPSIB9WSxY/IEfM0PfQ6Q2iQceYDZtPygHvtFaa/wDDd8gD9mvZKg+V4AxPv32NLt/CnlKvwNxmA9XmXX1EzPt1ozppXfoK10M7wXKLt5ma2bZUMFPiNnUIkoSIIMBZ7kbCpz/Cty3buO5XyKhVUcEsoA8QnUQAQJjYYbrV7yXkV6zauA8O9oEyA4lQYwCevzq6TjRZR1Np31ZTSmtCdOQ2QFyTuRIO+9XdDST1PM7/AA7qyRbV3JOlNQe6AJgsEPlgdx1qDZOrU7ZyY1OdJ0xGDvBJzkCK3vMOcNZZLb6OERU8Q20UNccMZKhpK2diDpmARnIqi5KitccObQ1EwhYjRK6pFzw2MiRJ2O53o216irUqeX27bXIYFFMkqshgYG+0j5dxRXofD8i5fbVrjPdAwJ/dOBMejRJgx9t6KUlKwMvb4i8J0WyJPqdjcByczgDHX50xxnGlCC/Do20kKiEsNzoMs0HqPeq5+ZMz6VvgESDhQrauzzJGe3apHAMqsBLOwABLRpJ3yznUZHcAdpFRla1f3M83Qs+ScwsLftNsyNLBZCAspEjWc7k4nOSavOK5or3LdxhaZrbCDqgkK0jUJwfy3rIjmNsubbC1pEAnPmPZVQfXaPfepNj9nLYfSoIUjQyjePMzeb1DbG4q1mS6jTNxbuJxV+3cVEXQR5i4LDSxOEDZM7HIqw58Fe2qYY+JBXIjByYM4kGsjy/lZuPFokgCdRKlYDEYnL5HX3qbzvgb3D2vENwhiQoUEMSxndyu0YgA9KuEpMdaGh+GoWyqlQrEloAbPkWTn3MVWrwZe5ZYW7TeHccsz6dSf+YdvLJmYziaf+GuXs9tb1y5d1FXVk1FYZWg5WDEqcR1qLb45hxa8PoZra6Fa4bt7xCzIWDYOmMbfpsdLCtSfxnLrd643iBCbV0t59MrqS2RuMTAP2p/jOFt3bjpdCeoMBc0/wACrOQes1V8145rfFpaRCU8niFrt7VDuEGmGjEjf8t6V8R8dcs3LaWk1AqXfVcvTpBiFhoB6yZ+RpWPKWHNuFS6xRtEFbbDXpAOnxsiR/MPvTnFWLbKtt9Og21AnTpOgjaREDFV3xNxT2PDWyoLPrZtb3SAqLqPpYRInft1movxBzq3atqLWnxSVL6i7BJHpww80iImk2l1Ci25lw6vZW2ht6fD0KWjwzpe0egz6T9q5+ykcIloG1Phm3OPC1QDGQcYPSs9xHxPNv8Ad20W4QJZtbKpnOJBbG3b3q2v8Q/7Cl5baeK4QTpJWWMatJO3WCetCkmGUtuVW/Dsqr6SUEMbYGjctjA/i7VV8KhHEm4TCSzdIy14SDO8C3/7qk8p4TxuHm6gV2DKxQADysyhgJIBxNZrh+GU8eeHYOLZD6fO0jw9MtJbJJYYIjPtloKNjft23MXANBVSNQUzBfYH/MPvWX+OyvgIUZIS4PLK7EFc5EQJP0iofxfxlu23g27anSqSYDZGqI/mht/eqPmXFl0S3cAZVOoemPTGkQBiMRtIqJTVNCaKTzbKoIwBoOOwgkTIOO1I4QOrFnAVogkwuJJx8z/eKs9SSCBB2GkbL16mNvam3uKcZdeqQTg9e5PvXNzL0omis5hxBiViepUbyMagM4iJNWfK+ILW7lplEKyGcjUT4hPWCNu2+9TeA4K2gMDzt3GojfvOPyqZxNtbaCNQkEkgjbAhgIgEziNxVrHilSRcYPdkcW0fy6QNPgiIjKlQcn1dfvVJ+1hLjKQdTOBsIZNIj9I7R0q3sBUgOwYt5iACQw3CgHpt1O3ypXE8JbufgAwoABA9PUn8W/8AzUxx1rZpuv3IvLrSvfdURSpS42ghdI0KdMA49RB26VYJbHhOdJ1H0HRIBgSARtAJ39o3p3lBsh2t3GNpSP8AE0eJplgdRVjtg/LtW+T4WQhNDsyYIdLdoq4IG3m2MDYdK3i88bFmUTEPZW3YQgKHNq5qKqoZiCYmMkgbTmqVXbMDVIMN27CBjaftXql/4SVgQ124w2Ci3bGkQVIwJIzNVnC/CPDWiqO/ERrGGS2enXSCQuxnp3FTOF6sM66FBw3D2UQOoW5dZRIuXAipI/hO7Db2zTfOOKm0PEVQ0qFi7bZW2U4DSDE5H12xL43l1m24hbzK+ZJCgpMApKT+Gc/nU2zyDg7rlGS+wmFb90Zzv6cCeu2DWKm7oTUt0ZI8tuMBcUoVLRGoFj6fw40r5x+eOtafk/E3ArBCyaGKkDzJI38jSDSeJ+DXtLcdLZRQ5CNrtBtG+o6RkljtiJNQ+D4oW/OdWWBJBDAkFSXgdZgHI9S79NHiKLqikr1NTw3xDf1rbPhQTpJwoj+YH+mKsn4m2RkWzGQA6ACIOPIYzWX5I4uX/EAUOSjQDj8QMdx/rV/zsXDw10KrF9OAhaTkbFcjE7VpGViaLBedKMeXb/7o/wD4ql5qWuBzZ4rwHJUiHtFEz/CLYJmDkk7dYiq/hviBbYNvUCVt2ws6jD6fMGOSfN133rCPzDXcum45Txtb+VnAXSC4EFh5piJHWOtCmpaITVF7xfCcClsu1u41y4ZD3RauLcY9fECSB7AADoBWS5ZxgN3zyrTurBTGICqzQACCIGc5nAp+3eNpJW55CFAAJEzBMqP+YE4qDxNtXuFE0JcUiIkSYk6TMbx9KM2a09u/Yzb7HovJOL4m4rJw8JBBZxqDPIkHJIIiMgfWuVleW3/DWPFZbigaiWK5O8SMg/OisuY1oa0iEgW3qdbZIESyXFLRO8AkiPf61RvxS6m/xBJmDA6jBB3/AN9qf5hwpsoGFwhxgJBVgD+JhqOc/KmeU8SiHzEI24dgSQTgR5TED/mumMKTe5zFmvE2VAm3cZ9OkFyF0mMeWJONzOwppF8RgfMQpMqoPpmSBq27f+rrUtrNttLllYsWOpkuQyxE/wAJOCRsMip3D3fDIKq0nebUq0wIkKd8HvjfNZuXbcYrlnCvaIvpc8MMdPhtHi3DEgKgILDGWwPpmtJw3PbvEaEuIh0NMNgmQygaIGr1DYnNUNwm6ly5bF03A2bZ04HuGnpqgROKt+Sc3dSi3LFp58vkADhVnTpDMdRHWSPrTe2ppB0zZ2LjW7OxBMxaRdRlsktB8skk5/2qusalYN+zuzAg6iEG20ErPfr1NTDzS3pUoRncGZHsYBp+5xttULEnSoJJAJ237Uri9LNlKtaKfj+PS2xuXrZUsZXUyE+ULAWUJ3AO/aqfmnxQlzWUtsH0hQW0MFAnMMm51bSKoOa8zF+61yYDemSQABAjbcVC16TIYRBLTJMLOZ9j+tc8pSbdbESxOyJbcQ7sbhZ57vJOTmAc/wBmmXubhiCDIOMCRBGRTNriwSCAGgmDmNts7nBNMeKCxIRtpLBQG3jfaPc1GR7mVkp2OCIIVsrltQEAKRPaNtpNbX4f5s9+34SoAbcGAYGQf4pzuYrBcILgLeYIrAqCACYYZMnar3lXErYcO4VXX8SgH8Eg4LA/iGMeYfKtE8u7NcOVHoXC2nCNrDBj6M4JjYmO/wDWqTnFwWCL720a6vkUajIFwyesRj9KquJ5vfZrbazI0tsyiAdRGwkZAkgTBprmXEC9cDOpnRpO58wJKn8x/wC2nzovTYtvcrONvjXcuEjU7HB2SY8oyZ657U0vDKwU6wrlRAAkwxkDfsKfHDSowIgGSQCTGIjp8+1VPF3XUgFYCgwIk7bjcTP61k3mdJ6mbdbjj8KUPlaW6STLGMg9NqEuBCBI80CRiOg6x1A6bimLHFEeRvW0HJmBOAB9T0p64dIOkZY7fwiJIxt7TTcdaZFroSnvYJAhlE5+eR+o/wBqfL65U7FYWJyMhhj3P6VT3OOS3pSQT/EIaQQN+px+tSOEugFQhIUltyASFPfv7f2DlNRspS6Ejh+He0CXiZjrJOQAZ33me5OK5xxJTUgIM7bmN/r8qOa8RkuzwJGqIPSADHpXYTTPDt4nlB8xgrE7EbkfMk/1qKd5wbrQt+EtgAPgHfPrnI2775iYLfKtDyD4jt2QUuAKhbCjOidzCmCMZA9yOxzF+0oWF0gyYM6V1RBOx3P39qhOZUlhqYDO2klfVkZx0JArODlmzJltpKj1u/zGy6vbS6pcqwARLkjG8dD9RWM5tzF1gFiD/Ihk50gO+JMKoO4kd5rN3OIBAfMETI2PYzO3vT/EcU9wmdQDgQxIJWFBx1YR09471rLEct9ATLK1xfiaAxuK0kDVrbJ3zEKcgfPJ6y4eMcfysFgnIO5BBI3Et+dVNvimbLajMzC6fNvIjrjqe3epnBXnQiGMtue5HqBO8GY7/OrjDQrMX3NOKP7PbtoX8xJYsAWMGfKfxqS0z7RNZu5dYFlClQWMyIgd8fOp/NeIuOoBeIyJIxDauu++3WBVTx3EhF1MT5RMxJGxOD09vY/UcG3sJlnyni7i3FcMoC4DFgAQT1PUScjt1rU8y5jcZFQaF1oNXlumDr0mCgIA+Zn5CsHwPGRLaYgFhqYMwDb4Y4yfsKlXOOdk0B1KtBBU4BUYDTsZMfT5URk02mhJlNbsuTl/3nrKdAJEa5yCRHaKce6NEXbYUk4XSB5p0hgRncyQJBgT3rnE3w3ltajGfKSCDsZMR9MHaofEcZo0CQ7oQZEeU7EhTtv17+1VHNmX5+IzboQvBalKSgGpIJaWAz0yo3G/eRUXmXEeZUKKrDAYfymFM/ee01I4vjSbrENpaRpzjzQDuJIECMdB2rnNrMPabUo8sFoMFhJIJ6YjfMnr06UneomtHQvg7hKZQ3TscM0ZkxGdzt7DGKKe4p7mlTa0hWLEqScERvkgzOqissl6/cVlTzLNxpzkfqalcqsqRbBUEFhIIBB2370UVv8AITDdllxZ0odOJfMYnPXvVrwVxi9qSTjufau0Vh0RSJ/G2lXQyqFafUAAdh1FTuWXWa3c1MTvuSe1FFQvhv6M3j5vQrr7nxNzsOtI5leaR5ju/U/wGiiuKG8f5Kn5WZtP8AjpoGPrUZP8df8AL/UUUV2R+b+TlLLh+o6Qcfel8F+uqffI371yiso7lR3Knmd1hcSGIz3PcVYcR5XfTiGuxGI8q7dqKK6J7IS3ZbcJ/gD/APJ/VqRwnrufMfotFFcM+v52NVshPFYKxjDf/KoXFehfr/2NRRVQ3QpDPJsqCcnud9361DvsTgmR5cfSiiuiPxJGT2InNf8AFtnrC5rScB6Lf+Qf0/1P3ooo4j4US8PdlT/1V90E++F371N5NgOBgajgf5jRRU43l9BR8xKXLtOcD9Vqs1kXTBI8y9fYV2issPd/Qciz5mYW3GPL0x2qRa9Fv5D9KKKz+VFdR2+g1Jgfal29vr/Q0UV2x8pY5xHpH996reL9Sjpp2+gooq35WEiq4z0H/Kf0al8XgLGPPb2x0rtFGF5TFFHqIZyDBk5+po5qx1rn8K/9q0UVsvOiOjDkTk3jJJ/5FWXGoBbeAB9Pc0UUp/FHHyj3KD5R8j/SiiisJbjWx//Z",
-        "state": "California",
-        "enrollment": 45057
-    }, {
-        "id": 2,
-        "name": "Boston University",
-        "website": "https://www.bu.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023900/201.jpg",
-        "state": "Massachusetts",
-        "enrollment": 18459
-    }, {
-        "id": 3,
-        "name": "Clemson University",
-        "website": "https://www.clemson.edu/index.html",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022889/301.jpg",
-        "state": "South Carolina",
-        "enrollment": 21653
-    }, {
-        "id": 4,
-        "name": "Vanderbilt University",
-        "website": "https://www.vanderbilt.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022817/400.jpg",
-        "state": "Tennessee",
-        "enrollment": 6886
-    }, {
-        "id": 5,
-        "name": "Northeastern University",
-        "website": "https://www.northeastern.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022996/1.jpg",
-        "state": "Massachusetts",
-        "enrollment": 20980
-    }, {
-        "id": 6,
-        "name": "Washington University in St. Louis",
-        "website": "https://wustl.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022620/101.jpg",
-        "state": "Missouri",
-        "enrollment": 4494
-    }, {
-        "id": 7,
-        "name": "Rice University",
-        "website": "https://www.rice.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023709/101.jpg",
-        "state": "Texas",
-        "enrollment": 1
-    }, {
-        "id": 8,
-        "name": "Swarthmore College",
-        "website": "https://www.swarthmore.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1024057/101.png",
-        "state": "Pennsylvania",
-        "enrollment": 1625
-    }, {
-        "id": 9,
-        "name": "Auburn University",
-        "website": "https://www.auburn.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023017/01.jpg",
-        "state": "Alabama",
-        "enrollment": 1
-    }, {
-        "id": 10,
-        "name": "Bucknell University",
-        "website": "https://www.bucknell.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023825/101.jpg",
-        "state": "Pennsylvania",
-        "enrollment": 3747
-    }, {
-        "id": 11,
-        "name": "Fordham University",
-        "website": "https://www.fordham.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023254/1.jpg",
-        "state": "New York",
-        "enrollment": 10098
-    }, {
-        "id": 12,
-        "name": "Ithaca College",
-        "website": "https://www.ithaca.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023296/1.jpg",
-        "state": "New York",
-        "enrollment": 4619
-    }, {
-        "id": 13,
-        "name": "College of Charleston",
-        "website": "https://www.cofc.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1022883/1.jpg",
-        "state": "South Carolina",
-        "enrollment": 9972
-    }, {
-        "id": 14,
-        "name": "Loyola University Maryland",
-        "website": "https://www.loyola.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1023474/201.jpg",
-        "state": "Maryland",
-        "enrollment": 3977
-    }, {
-        "id": 15,
-        "name": "Temple University",
-        "website": "https://www.temple.edu/",
-        "image": "https://hems-assets.princetonreview.com/images/profilepics/1024067/101.jpg",
-        "state": "Pennsylvania",
-        "enrollment": 24106
+  "colleges": [
+    {
+      "id": 2,
+      "name": "Boston University",
+      "website": "https://www.bu.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1023900/201.jpg",
+      "state": "Massachusetts",
+      "enrollment": 18459
+    },
+    {
+      "id": 3,
+      "name": "Clemson University",
+      "website": "https://www.clemson.edu/index.html",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1022889/301.jpg",
+      "state": "South Carolina",
+      "enrollment": 21653
+    },
+    {
+      "id": 4,
+      "name": "Vanderbilt University",
+      "website": "https://www.vanderbilt.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1022817/400.jpg",
+      "state": "Tennessee",
+      "enrollment": 6886
+    },
+    {
+      "id": 6,
+      "name": "Washington University in St. Louis",
+      "website": "https://wustl.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1022620/101.jpg",
+      "state": "Missouri",
+      "enrollment": 4494
+    },
+    {
+      "id": 7,
+      "name": "Rice University",
+      "website": "https://www.rice.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1023709/101.jpg",
+      "state": "Texas",
+      "enrollment": 1
+    },
+    {
+      "id": 8,
+      "name": "Swarthmore College",
+      "website": "https://www.swarthmore.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1024057/101.png",
+      "state": "Pennsylvania",
+      "enrollment": 1625
+    },
+    {
+      "id": 10,
+      "name": "Bucknell University",
+      "website": "https://www.bucknell.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1023825/101.jpg",
+      "state": "Pennsylvania",
+      "enrollment": 3747
+    },
+    {
+      "id": 11,
+      "name": "Fordham University",
+      "website": "https://www.fordham.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1023254/1.jpg",
+      "state": "New York",
+      "enrollment": 10098
+    },
+    {
+      "id": 12,
+      "name": "Ithaca College",
+      "website": "https://www.ithaca.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1023296/1.jpg",
+      "state": "New York",
+      "enrollment": 4619
+    },
+    {
+      "id": 13,
+      "name": "College of Charleston",
+      "website": "https://www.cofc.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1022883/1.jpg",
+      "state": "South Carolina",
+      "enrollment": 9972
+    },
+    {
+      "id": 14,
+      "name": "Loyola University Maryland",
+      "website": "https://www.loyola.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1023474/201.jpg",
+      "state": "Maryland",
+      "enrollment": 3977
+    },
+    {
+      "id": 15,
+      "name": "Temple University",
+      "website": "https://www.temple.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1024067/101.jpg",
+      "state": "Pennsylvania",
+      "enrollment": 24106
     }
-],
-  "items": [{
-    "id": 1,
-    "task": "Write personal statement"
-  }
-  ]  
+  ],
+  "items": [
+    {
+      "id": 1,
+      "task": "Write personal statement"
+    },
+    {
+      "task": "Contact Admissions",
+      "id": 2
+    },
+    {
+      "task": "Fill Out Application",
+      "id": 3
+    }
+  ]
 }

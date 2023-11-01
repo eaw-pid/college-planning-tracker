@@ -1,7 +1,17 @@
 import React from "react";
 import {Card, Icon, Image} from "semantic-ui-react"
 
-function CollegeCard({college}) {
+function CollegeCard({college, onDelete}) {
+
+function handleDelete() {
+    console.log(college.id)
+    fetch(`http://localhost:3001/colleges/${college.id}`, {
+    method: "DELETE"
+  })
+  .then(res => res.json())
+  .then(() => onDelete(college))
+
+}
 
     return (
         <div className="ui eight wide column">
@@ -12,17 +22,17 @@ function CollegeCard({college}) {
                 <div className="image">
                     <img src={college.image} alt={college.image}/>
                 </div>
-                <div class="meta">
-                    <span class="date">Enrollment: {college.enrollment}</span>
+                <div className="meta">
+                    <span className="date">Enrollment: {college.enrollment}</span>
                 </div>
-                <div class="description">
+                <div className="description">
                      Location: {college.state}
                  </div>
-                 <div class="extra content">
+                 <div className="extra content">
                      <a href={college.website}>Website</a>
                 </div>
-                <div class="extra content">
-                    <button class="ui button">Add to My Colleges</button>
+                <div className="extra content">
+                    <button className="ui button" onClick={handleDelete}>Remove</button>
                 </div>
             </div>
        

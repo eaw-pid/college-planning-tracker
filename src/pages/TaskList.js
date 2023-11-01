@@ -9,9 +9,7 @@ function TaskList() {
       <NavBar />
         <h1>Task List</h1>
     </header>
-  
      <TaskForm />
-
   </div> 
  )
 }
