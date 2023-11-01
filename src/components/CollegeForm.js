@@ -11,6 +11,7 @@ function CollegeForm({onAddCollege}) {
 
 function handleSubmit(e) {
     e.preventDefault()
+
     const newCollege = {
         name: name,
         enrollment: enrollment,
@@ -27,6 +28,13 @@ function handleSubmit(e) {
     })
     .then(res=> res.json())
     .then(data => onAddCollege(data))
+    
+    //reset form fields
+    setName("")
+    setEnrollment("")
+    setCollegeState("")
+    setCollegeUrl("")
+    setCollegeImg("")
 
 }
  return (
