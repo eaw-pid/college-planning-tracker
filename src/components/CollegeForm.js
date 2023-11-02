@@ -38,42 +38,41 @@ function handleSubmit(e) {
 
 }
  return (
-   <div>
-    <div>
-        <h2>Add New College</h2>
+   <div className="CollegeForm">
+    <div >
+        <h3>Add New College</h3><br/>
     </div>
-
-        <div className="TaskForm">
+        <div>
             <form onSubmit={handleSubmit}>
-                <label>College Name:</label>
+                <label>College Name:  </label>
                 <input 
                     type="text"
                     placeholder="Enter College Name" 
                     value={name}
                     onChange={(e) => setName(e.target.value)}>
-                </input><br/>
-                <label>College Enrollment:</label>
+                </input>
+                <label>College Enrollment:  </label>
                 <input 
                     type="text"
                     placeholder="Enter College Enrollment" 
                     value={enrollment}
                     onChange={(e) => setEnrollment(e.target.value)}>
-                </input><br/>
-                <label>College State:</label>
+                </input>
+                <label>College State: </label>
                 <input 
                     type="text"
                     placeholder="Enter State" 
                     value={collegeState}
                     onChange={(e) => setCollegeState(e.target.value)}>
                 </input><br/>
-                <label>College Website:</label>
+                <label>College Website: </label>
                 <input 
                     type="text"
                     placeholder="Enter College URL"
                     value={collegeUrl} 
                     onChange={(e) => setCollegeUrl(e.target.value)}>
-                </input><br/>
-                <label>College Image:</label>
+                </input>
+                <label>College Image: </label>
                 <input 
                     type="text"
                     placeholder="Enter Image" 

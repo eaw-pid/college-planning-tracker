@@ -7,7 +7,7 @@ function MyColleges() {
 
         <div>
         <header className="App">
-          <NavBar />
+          
             <h1>My Colleges</h1>
          
         </header>

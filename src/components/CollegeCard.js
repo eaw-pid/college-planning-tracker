@@ -14,7 +14,7 @@ function handleDelete() {
 }
 
     return (
-        <div className="ui eight wide column">
+        <div className="ui four wide column">
         <div className="ui card" > 
                 <div className="content">
                     <a className="header">{college.name}</a>

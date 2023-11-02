@@ -12,10 +12,10 @@ function NavBar() {
             Home    
             </NavLink>
             <NavLink
-            to="/my-colleges"
+            to="/inspo"
             className="nav-link"
             >
-            My Colleges    
+            Inspiration   
             </NavLink>
             <NavLink
             to="/tasks"

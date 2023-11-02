@@ -95,6 +95,14 @@
       "image": "https://hems-assets.princetonreview.com/images/profilepics/1024067/101.jpg",
       "state": "Pennsylvania",
       "enrollment": 24106
+    },
+    {
+      "name": "University of Central Florida",
+      "enrollment": "58749",
+      "state": "Florida",
+      "website": "https://www.ucf.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1022881/201.jpg",
+      "id": 16
     }
   ],
   "items": [
@@ -109,6 +117,10 @@
     {
       "task": "Fill Out Application",
       "id": 3
+    },
+    {
+      "task": "Schedule Visits",
+      "id": 4
     }
   ]
 }
