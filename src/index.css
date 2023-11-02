@@ -96,6 +96,26 @@ body {
     bottom: 2px;
     left: 2px;
   }
+
+ .quote-heading {
+    background-color: #6b936a;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    color: #ffffff;
+    margin: 0;
+    padding: 50px;
+    font-size: 20px;
+  }
+
+  .quote-container {
+    background-color: #6b936a;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    color: #fff;
+    margin: 0;
+    padding: 50px;
+    font-size: 20px;
+}
   
   @media (min-width: 768px) {
     .button-53 {
