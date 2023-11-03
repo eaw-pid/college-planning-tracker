@@ -39,7 +39,7 @@ function Home() {
     return (
         <div className="App">
           <h1 className="home-header">College Planner</h1>
-          <h2>Picking a college is hard work. Use this tracker to stay organized!</h2>
+          <p>Picking a college is hard work. Use this tracker to stay organized as you decide where you want to go!</p>
         <div>
             <CollegeForm onAddCollege={handleAddCollege} />
         </div>

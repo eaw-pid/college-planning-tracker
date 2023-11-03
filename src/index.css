@@ -29,6 +29,7 @@ body {
     padding: 8rem;
     font-size: 50px;
     font-weight: bold;
+
   }
 
   #college-container {
@@ -98,7 +99,7 @@ body {
   }
 
  .quote-heading {
-    background-color: #6b936a;
+    background-color: #87CEEB;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     color: #ffffff;
@@ -108,7 +109,7 @@ body {
   }
 
   .quote-container {
-    background-color: #6b936a;
+    background-color: #87CEEB;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     color: #fff;
@@ -117,6 +118,9 @@ body {
     font-size: 20px;
 }
   
+.check {
+  color: rgb(42, 108, 184)
+}
   @media (min-width: 768px) {
     .button-53 {
       padding: .75rem 3rem;

@@ -103,6 +103,14 @@
       "website": "https://www.ucf.edu/",
       "image": "https://hems-assets.princetonreview.com/images/profilepics/1022881/201.jpg",
       "id": 16
+    },
+    {
+      "name": "University of Washington",
+      "enrollment": "36872",
+      "state": "Washington",
+      "website": "https://www.washington.edu/",
+      "image": "https://hems-assets.princetonreview.com/images/profilepics/1023567/01.jpg",
+      "id": 17
     }
   ],
   "items": [
@@ -117,10 +125,6 @@
     {
       "task": "Fill Out Application",
       "id": 3
-    },
-    {
-      "task": "Schedule Visits",
-      "id": 4
     }
   ]
 }

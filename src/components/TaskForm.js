@@ -39,7 +39,7 @@ function handleDeleteTask(deletedTask) {
  return (
     <div className="TaskList">
         <div className="TaskForm">
-            <h3>Add New Task</h3>
+            <h3 >Add New Task</h3>
             <form onSubmit={handleSubmit}>
                 <input 
                     type="text"
