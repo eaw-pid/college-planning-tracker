@@ -42,16 +42,12 @@ function handleDeleteTask(deletedTask) {
         <h3>Add a New Task</h3>
         <Form onSubmit={handleSubmit}>
             <Form.Field inline >
-                {/* <label>New Task</label> */}
+
                <Form.Input label="New Task" 
-                placeholder="Enter Task" 
-                value={newTaskField}
-                onChange={(e) => setNewTaskField(e.target.value)}/>
+                    placeholder="Enter Task" 
+                    value={newTaskField}
+                    onChange={(e) => setNewTaskField(e.target.value)}/>
                 
-                {/* <Input placeholder="Task" 
-                    name="task" 
-                    value={newTaskField} 
-                    onChange={(e) => setNewTaskField(e.target.value)}/> */}
             </Form.Field>
             <Form.Button>Submit</Form.Button>
 
@@ -59,15 +55,16 @@ function handleDeleteTask(deletedTask) {
         </Form>
         
     <br/>
-    <div>
+    <div className="taskContainer">
         <h3>My Tasks</h3><br/>
-    </div>
+    
     <div className="Items">
         {tasks.map((item) => (
             <Task key={item.id} item={item} onDeleteTask={handleDeleteTask}/>
         ))}
     </div>
-    </div>
+</div> 
+</div>
 
  )
 }

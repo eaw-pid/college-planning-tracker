@@ -11,14 +11,8 @@ body {
 
   .Items {
     list-style: none;
+
   }
-
-
-
-  /* div {
-    margin-bottom: 10px
-  } */
-  
 
   .home-header {
     display: flex;
@@ -29,8 +23,33 @@ body {
     padding: 8rem;
     font-size: 50px;
     font-weight: bold;
+    
 
   }
+
+  .quote-heading {
+    background-color: #87CEEB;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    color: #ffffff;
+    margin: 0;
+    padding: 50px;
+    font-size: 20px;
+  }
+  
+  .quote-container {
+    background-color: #87CEEB;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    color: #fff;
+    margin: 0;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.taskContainer {
+  padding-bottom: 50px;
+}
 
   #college-container {
     display: flex;
@@ -98,25 +117,9 @@ body {
     left: 2px;
   }
 
- .quote-heading {
-    background-color: #87CEEB;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-    color: #ffffff;
-    margin: 0;
-    padding: 50px;
-    font-size: 20px;
-  }
+ 
 
-  .quote-container {
-    background-color: #87CEEB;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-    color: #fff;
-    margin: 0;
-    padding: 50px;
-    font-size: 20px;
-}
+
   
 .check {
   color: rgb(42, 108, 184)
