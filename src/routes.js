@@ -13,23 +13,18 @@ const routes = [
         children: [
             {
                 path: "/",
-                element: <Home />
-                
+                element: <Home />   
             },
             {
                 path: "/tasks",
                 element: <TaskList />
-                
             },
             {
                 path: "/inspo",
                 element: <Quotes />
             },
-         
         ]
     },
-    
-    
 ];
 
 export default routes;

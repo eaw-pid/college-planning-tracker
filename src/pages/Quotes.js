@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react"
+import React, { useState } from "react"
 
 function Quotes() {
 
@@ -6,13 +6,6 @@ const [quote, setQuote] = useState("")
 const [author, setAuthor] = useState("")
 
 
-// useEffect(() => {
-//     fetch("https://api.quotable.io/random")
-//     .then(res => res.json())
-//     .then(quotes => setQuote(quotes.content))
-// }, [])
-
-//https://api.quotable.io/random
 function handleClick() {
     fetch("https://api.quotable.io/random")
     .then(res => res.json())
@@ -38,3 +31,14 @@ return (
 }
 
 export default Quotes
+
+
+
+
+// useEffect(() => {
+//     fetch("https://api.quotable.io/random")
+//     .then(res => res.json())
+//     .then(quotes => setQuote(quotes.content))
+// }, [])
+
+//https://api.quotable.io/random

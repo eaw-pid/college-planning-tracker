@@ -4,7 +4,6 @@ import {Card, Icon, Image} from "semantic-ui-react"
 function CollegeCard({college, onDelete}) {
 
 function handleDelete() {
-    console.log(college.id)
     fetch(`http://localhost:3001/colleges/${college.id}`, {
     method: "DELETE"
   })
